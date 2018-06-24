@@ -1,4 +1,4 @@
-package Chapter2;
+package chapter2;
 
 public class Intersection2_7 {
 
